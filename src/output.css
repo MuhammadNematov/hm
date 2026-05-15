@@ -412,6 +412,9 @@
   .w-\[150px\] {
     width: 150px;
   }
+  .w-\[170px\] {
+    width: 170px;
+  }
   .w-\[200px\] {
     width: 200px;
   }
@@ -904,6 +907,9 @@
   .outline {
     outline-style: var(--tw-outline-style);
     outline-width: 1px;
+  }
+  .will-change-auto {
+    will-change: auto;
   }
   .outline-none {
     --tw-outline-style: none;
