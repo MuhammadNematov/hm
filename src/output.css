@@ -337,6 +337,12 @@
   .h-\[500px\] {
     height: 500px;
   }
+  .h-\[550px\] {
+    height: 550px;
+  }
+  .h-\[570px\] {
+    height: 570px;
+  }
   .h-\[700px\] {
     height: 700px;
   }
@@ -502,11 +508,17 @@
   .justify-around {
     justify-content: space-around;
   }
+  .justify-baseline {
+    justify-content: baseline;
+  }
   .justify-between {
     justify-content: space-between;
   }
   .justify-center {
     justify-content: center;
+  }
+  .justify-evenly {
+    justify-content: space-evenly;
   }
   .gap-0 {
     gap: calc(var(--spacing) * 0);
